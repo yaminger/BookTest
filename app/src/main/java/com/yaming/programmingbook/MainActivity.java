@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Toast.makeText(this,"测试用",Toast.LENGTH_SHORT).show();
+
         mTrueBtn = (Button) findViewById(R.id.true_btn);
         mTrueBtn.setOnClickListener(this);
         mFalseBtn = (Button) findViewById(R.id.false_btn);
