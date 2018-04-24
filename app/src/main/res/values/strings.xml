@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProgrammingBook</string>
+    <string name="true_btn">True</string>
+    <string name="false_btn">False</string>
+    <string name="next_btn">Next</string>
+    <string name="back_btn">Back</string>
+
+    <string name="toast_correct">你答对了！</string>
+    <string name="toast_incorrect">sorry,错了！</string>
+    
+    <string name="q_1">辽宁省会是沈阳？</string>
+    <string name="q_2">沈阳人口有4300万？</string>
+    <string name="q_3">中国地大物博？</string>
+    <string name="q_4">小米是一家科技公司吗？</string>
+</resources>
